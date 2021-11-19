@@ -6,6 +6,8 @@ import android.os.Bundle;
 
 public class ThanksScreen extends AppCompatActivity {
 
+    //Xuân Hiển thiết kế giao diện
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

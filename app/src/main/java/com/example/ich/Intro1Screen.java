@@ -6,6 +6,8 @@ import android.os.Bundle;
 
 public class Intro1Screen extends AppCompatActivity {
 
+    //Hoàng Bá Minh thiết kế giao diện
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
