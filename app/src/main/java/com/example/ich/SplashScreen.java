@@ -7,6 +7,7 @@ import android.os.Bundle;
 public class SplashScreen extends AppCompatActivity {
 
     //Hoàng Bá Minh thiết kế giao diện
+    //
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
